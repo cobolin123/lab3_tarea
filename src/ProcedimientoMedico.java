@@ -1,9 +1,10 @@
+import java.util.*;
 public class ProcedimientoMedico {
 
     String tipoServicio;
 
     String codigoServicio;
-    ArrayList<Material>  ;
+    ArrayList<Material>  materiales ;
 
     String duración;
 
